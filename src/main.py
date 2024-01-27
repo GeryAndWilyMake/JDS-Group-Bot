@@ -11,6 +11,10 @@ from nextcord.ext import commands
 #External modules.
 from dotenv import load_dotenv
 
+#Import discord
+import discord
+from discord.ext import commands
+
 #? ......................[ Variables ].........................
 #* Tokens
 load_dotenv()
